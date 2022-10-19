@@ -1,0 +1,41 @@
+网络图片展示 - RuntimeTexture
+    通过图片链接加载图片。
+    !!!警告:请尽量不要尝试加载高分辨率图片!!!
+    Load pictures through picture links.
+    !!!Warning: Please do not try to load high-resolution picture!!!
+    Blueprint'/Game/Mods/SGUI/Objects/Structures/RuntimeTexture/SGUI_Structure_PrimalItem_RuntimeTexture.SGUI_Structure_PrimalItem_RuntimeTexture'
+    
+网络图片展示地面 - RuntimeTextureFloor
+    通过图片链接加载图片。
+    !!!警告:请尽量不要尝试加载高分辨率图片!!!
+    Load pictures through picture links.
+    !!!Warning: Please do not try to load high-resolution picture!!!
+    Blueprint'/Game/Mods/SGUI/Objects/Structures/RuntimeTextureFloor/SGUI_Structure_PrimalItem_RuntimeTextureFloor.SGUI_Structure_PrimalItem_RuntimeTextureFloor'
+    
+网络图片展示自由 - RuntimeTextureFree
+    通过图片链接加载图片。
+    !!!警告:请尽量不要尝试加载高分辨率图片!!!
+    Load pictures through picture links.
+    !!!Warning: Please do not try to load high-resolution picture!!!
+    Blueprint'/Game/Mods/SGUI/Objects/Structures/RuntimeTextureFree/SGUI_Structure_PrimalItem_RuntimeTextureFree.SGUI_Structure_PrimalItem_RuntimeTextureFree'
+    
+网络图片展示1-1 - RuntimeTexture1-1
+    通过图片链接加载图片。
+    !!!警告:请尽量不要尝试加载高分辨率图片!!!
+    Load pictures through picture links.
+    !!!Warning: Please do not try to load high-resolution picture!!!
+    Blueprint'/Game/Mods/SGUI/Objects/Structures/RuntimeTexture1-1/SGUI_Structure_PrimalItem_RuntimeTexture1-1.SGUI_Structure_PrimalItem_RuntimeTexture1-1'
+    
+网络图片展示1-2 - RuntimeTexture1-2
+    通过图片链接加载图片。
+    !!!警告:请尽量不要尝试加载高分辨率图片!!!
+    Load pictures through picture links.
+    !!!Warning: Please do not try to load high-resolution picture!!!
+    Blueprint'/Game/Mods/SGUI/Objects/Structures/RuntimeTexture1-2/SGUI_Structure_PrimalItem_RuntimeTexture1-2.SGUI_Structure_PrimalItem_RuntimeTexture1-2'
+    
+网络图片展示2-1 - RuntimeTexture2-1
+    通过图片链接加载图片。
+    !!!警告:请尽量不要尝试加载高分辨率图片!!!
+    Load pictures through picture links.
+    !!!Warning: Please do not try to load high-resolution picture!!!
+    Blueprint'/Game/Mods/SGUI/Objects/Structures/RuntimeTexture2-1/SGUI_Structure_PrimalItem_RuntimeTexture2-1.SGUI_Structure_PrimalItem_RuntimeTexture2-1'
